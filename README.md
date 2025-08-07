@@ -1,5 +1,7 @@
 🚨 Network Intrusion Detection System (NIDS) using Machine Learning
+
 📡 Electronics & Telecommunication Engineering | Machine Learning Project
+
 🚀 Overview
 Modern networks are constantly under threat from a variety of cyber-attacks. Proactive detection is critical for safeguarding communication infrastructure. This project aims to build a robust Network Intrusion Detection System (NIDS) leveraging machine learning, to identify and classify malicious network activity and provide early warnings of potential threats.
 
